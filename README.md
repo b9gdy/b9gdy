@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm b9gdy</h1>
-<h3 align="center">A passionate C++ developer.</h3>
+<h3 align="center">Learning C++.</h3>
 <img align="center" src="carbon.png" width="300" height ="300" /></a>
 
 
